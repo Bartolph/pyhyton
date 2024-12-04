@@ -45,7 +45,7 @@ photo = ImageTk.PhotoImage(tonk)
 image_label = Label(window, image=photo, bg="#B2DFDB")
 image_label.pack(pady=10)
 
-imegor = Label(window, text="ИС-3 ГОООООООЛ", font=20, bg="lightgreen")
+imegor = Label(window, text="TOOONK", font=20, bg="lightgreen")#Здесь измененияefrh,.l,hnfedswdgtul;/.lkhgrfeswdfghjklk455
 imegor.pack(ipady=10, pady=10)
 hi = Label(window, text="Задание привет", bg="lightgreen")
 hi.pack(ipady=10, pady=10)
